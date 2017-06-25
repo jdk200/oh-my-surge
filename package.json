@@ -24,6 +24,9 @@
     "nock": "^9.0.13",
     "prettier": "^1.4.4"
   },
+  "engines": {
+    "node": ">=6.11.0"
+  },
   "dependencies": {
     "isomorphic-fetch": "^2.2.1"
   }
